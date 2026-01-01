@@ -16,3 +16,6 @@
 ## [2026-01-01 17:53:44] Feat: Create contracts directory structure
 - Action taken: Feat: Create contracts directory structure
 
+## [2026-01-01 21:00:44] Feat: Add IOracle interface definition
+- Action taken: Feat: Add IOracle interface definition
+
