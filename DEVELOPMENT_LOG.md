@@ -25,3 +25,6 @@
 ## [2026-01-02 05:54:44] Refactor: Clean up hardhat config types
 - Action taken: Refactor: Clean up hardhat config types
 
+## [2026-01-02 09:25:44] Docs: Update README with project title
+- Action taken: Docs: Update README with project title
+
