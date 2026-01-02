@@ -28,3 +28,6 @@
 ## [2026-01-02 09:25:44] Docs: Update README with project title
 - Action taken: Docs: Update README with project title
 
+## [2026-01-02 13:56:44] Feat: Add AggregatorV3Interface mock
+- Action taken: Feat: Add AggregatorV3Interface mock
+
