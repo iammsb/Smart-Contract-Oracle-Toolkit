@@ -22,3 +22,6 @@
 ## [2026-01-02 00:54:44] Feat: Implement basic Oracle contract skeleton
 - Action taken: Feat: Implement basic Oracle contract skeleton
 
+## [2026-01-02 05:54:44] Refactor: Clean up hardhat config types
+- Action taken: Refactor: Clean up hardhat config types
+
