@@ -40,3 +40,6 @@
 ## [2026-01-03 03:01:44] Utils: Add testing utilities helper
 - Action taken: Utils: Add testing utilities helper
 
+## [2026-01-03 07:51:44] Docs: Add installation instructions
+- Action taken: Docs: Add installation instructions
+
