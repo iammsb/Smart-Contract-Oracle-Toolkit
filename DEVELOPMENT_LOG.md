@@ -37,3 +37,6 @@
 ## [2026-01-02 22:23:44] Feat: Create mock data provider contract
 - Action taken: Feat: Create mock data provider contract
 
+## [2026-01-03 03:01:44] Utils: Add testing utilities helper
+- Action taken: Utils: Add testing utilities helper
+
