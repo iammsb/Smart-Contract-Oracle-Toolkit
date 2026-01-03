@@ -43,3 +43,6 @@
 ## [2026-01-03 07:51:44] Docs: Add installation instructions
 - Action taken: Docs: Add installation instructions
 
+## [2026-01-03 12:22:44] Feat: Add deployment scripts scaffolding
+- Action taken: Feat: Add deployment scripts scaffolding
+
