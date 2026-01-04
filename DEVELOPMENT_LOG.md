@@ -58,3 +58,6 @@
 ## [2026-01-04 04:46:44] Refactor: Optimize Oracle storage layout
 - Action taken: Refactor: Optimize Oracle storage layout
 
+## [2026-01-04 08:21:44] Feat: Add ownership controls to Oracle
+- Action taken: Feat: Add ownership controls to Oracle
+
