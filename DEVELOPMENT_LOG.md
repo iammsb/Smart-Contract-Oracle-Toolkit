@@ -61,3 +61,6 @@
 ## [2026-01-04 08:21:44] Feat: Add ownership controls to Oracle
 - Action taken: Feat: Add ownership controls to Oracle
 
+## [2026-01-04 12:58:44] Feat: Implement withdrawal functionality
+- Action taken: Feat: Implement withdrawal functionality
+
