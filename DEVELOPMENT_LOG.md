@@ -73,3 +73,6 @@
 ## [2026-01-05 02:24:44] Config: Add gas reporter plugin
 - Action taken: Config: Add gas reporter plugin
 
+## [2026-01-05 07:46:44] Chore: Update .gitignore for artifacts
+- Action taken: Chore: Update .gitignore for artifacts
+
