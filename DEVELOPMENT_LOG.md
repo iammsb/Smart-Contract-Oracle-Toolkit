@@ -82,3 +82,6 @@
 ## [2026-01-05 17:35:44] Refactor: Optimize contract size
 - Action taken: Refactor: Optimize contract size
 
+## [2026-01-05 22:04:44] Docs: Add comments to main contract
+- Action taken: Docs: Add comments to main contract
+
