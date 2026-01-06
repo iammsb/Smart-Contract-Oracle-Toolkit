@@ -97,3 +97,6 @@
 ## [2026-01-06 17:04:44] Fix: Fix compiler warnings in mocks
 - Action taken: Fix: Fix compiler warnings in mocks
 
+## [2026-01-06 21:35:44] Test: Add unit tests for ownership
+- Action taken: Test: Add unit tests for ownership
+
