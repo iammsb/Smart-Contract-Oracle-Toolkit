@@ -94,3 +94,6 @@
 ## [2026-01-06 11:22:44] Feat: Create migration scripts
 - Action taken: Feat: Create migration scripts
 
+## [2026-01-06 17:04:44] Fix: Fix compiler warnings in mocks
+- Action taken: Fix: Fix compiler warnings in mocks
+
