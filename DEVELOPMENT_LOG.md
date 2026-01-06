@@ -91,3 +91,6 @@
 ## [2026-01-06 05:32:44] Ci: Add Etherscan verification placeholder
 - Action taken: Ci: Add Etherscan verification placeholder
 
+## [2026-01-06 11:22:44] Feat: Create migration scripts
+- Action taken: Feat: Create migration scripts
+
