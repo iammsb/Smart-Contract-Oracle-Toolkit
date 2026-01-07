@@ -109,3 +109,6 @@
 ## [2026-01-07 10:57:44] Refactor: Standardize file headers
 - Action taken: Refactor: Standardize file headers
 
+## [2026-01-07 16:24:44] Chore: Prepare for v0.1.0 release
+- Action taken: Chore: Prepare for v0.1.0 release
+
